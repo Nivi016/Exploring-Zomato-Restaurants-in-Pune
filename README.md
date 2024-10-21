@@ -24,6 +24,8 @@ Created various visualizations to represent the pune restaurant data:
 * Clustered bar chart: we analyze restaurant reviews.
 
                                       Dashboard & Report
+<img width="601" alt="Dashboard" src="https://github.com/user-attachments/assets/bda35dde-955f-4a13-8afb-35d0898ec3b8">
+  
 * Combined all visualizations into an interactive Power BI dashboard
 * Added filters (slicers) to allow users to interact with the data by Star rating, Review, or Sponsored.
   
@@ -45,6 +47,8 @@ The key outcomes from this analysis include:
 
 
                                         Final Report
+<img width="598" alt="Report" src="https://github.com/user-attachments/assets/8fbfa23f-be18-41a1-87ac-7014812da20c">
+  
 The final report will include:
 * Data Overview: A summary of the data structure and the parameters used for analysis (restaurant names, localities, ratings, votes, etc.).
 * Key Insights: A section dedicated to the major findings, such as which restaurant performed best overall, which service features were most valued by customers, and how review percentages reflect customer satisfaction.
